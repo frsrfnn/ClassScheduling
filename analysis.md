@@ -1,7 +1,7 @@
 # Group Members
-Muhammad Haziq bin Sulaiman 1810441
-Faris Irfan bin Rosemanzailani 
-Nabila Jahan 1819824
+1. Muhammad Haziq bin Sulaiman 1810441
+2. Faris Irfan bin Rosemanzailani 1828623
+3. Nabila Jahan 1819824
 
 # Introduction
 
@@ -19,6 +19,7 @@ to emphasize the use of time to its full potential.
 
 # Analysis
 Input:
+
 CSC 2201
 duration :2
 priority :3
