@@ -1,3 +1,8 @@
+# Group Members
+Muhammad Haziq bin Sulaiman 1810441
+Faris Irfan bin Rosemanzailani 
+Nabila Jahan 1819824
+
 # Introduction
 
 Other than the given FCFS algorithm, our group have choosen SJF and priority scheduling for the other 2 algorithms. The purpose is to 
@@ -13,16 +18,36 @@ to emphasize the use of time to its full potential.
 
 
 # Analysis
+Input:
+CSC 2201
+duration :2
+priority :3
+arrival time :1
+
+CSC 3401
+duration :3
+priority :1
+arrival time :3
+
+CSC 1103
+duration :1
+priority :4
+arrival time :2
+
+CSC 1405
+duration :4
+priority :2
+arrival time :4
+
 
 ## FCFS
 
+
+## SJF
+
 Give an analysis of your algo and compare it with the other two
 
-## Algo2
-
-Give an analysis of your algo and compare it with the other two
-
-## Algo3
+## PRIORITY SCHEDULING
 
 Give an analysis of your algo and compare it with the other two
 
