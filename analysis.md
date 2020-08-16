@@ -45,8 +45,17 @@ arrival time :4
 ## FCFS
 first come first serve (FCFS) basis as the process which arrives first will be executed first or in other words that the process which requests the CPU first gets the CPU allocation first. FCFS is the basic of CPU scheduling algorithm. FCFS algorithm does not include any complex logic, all the process is put in queue and executed accordingly which avoids starvation from occuring.
 
+average waiting time : 3.25
+average turn around time : 5.75
+
 ## SJF
 shortest job first (SJF) scheduling works by executing the process with the shortest burst time in the first place resulting in the reduction of average waiting time for the next process. this will increase the efficincy of the system hence, more process can be done in a shorter time frame.
 
+average waiting time : 1.33
+average turn around time : 3.33
+
 ## PRIORITY SCHEDULING
 Priority schudeling will prioritize process with higher priority. the process with higher priority will be executed first followed by the other processes with lower priority. 
+
+average waiting time : 5
+average turn around time : 8
